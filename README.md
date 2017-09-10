@@ -1,2 +1,6 @@
-# DMREF
-A collaborative project for discovering topological materials by theory and experiment.
+# DMREF  
+A project for discovering topological materials through collaborative efforts by theorists and experimentalists.  
+
+
+Acknowledgment:  
+...
