@@ -1,6 +1,6 @@
 # DMREF  
-A project for discovering topological materials through collaborative efforts by theorists and experimentalists.  
 
+Data archive for reproducing ab-initio calculations of XAs3 (X= Ca, Sr, Ba, Eu).
 
 Acknowledgment:  
 ...
